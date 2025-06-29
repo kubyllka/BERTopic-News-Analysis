@@ -1,0 +1,12 @@
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+scikit-learn
+matplotlib
+seaborn
+pandas
+openpyxl
+spacy
+openai
+nltk
