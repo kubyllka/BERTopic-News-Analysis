@@ -1,5 +1,6 @@
 # BERTopic-News-Analysis
 
+Full analysis here:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OQ4zT1vK3qOv9vPLbwYnwv80WXxxvFG1?usp=sharing)
 
 ## Project Overview
